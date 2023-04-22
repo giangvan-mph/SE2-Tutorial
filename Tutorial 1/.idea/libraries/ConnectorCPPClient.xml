@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ConnectorCPPClient">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/MySQL/MySQL Installer for Windows/ConnectorCPPClient.zip!/" />
+      <root url="jar://C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.31.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

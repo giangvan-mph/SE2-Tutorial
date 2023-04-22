@@ -1,0 +1,9 @@
+<h2 class="text-center text-primary">Add Employee</h2
+<fieldset class="form-group">
+  <label>Employee name </label>
+  <label>
+    <select class="form-select" th:field="*{company}">
+      <option th:each="comp : ${companies}" th:value="${comp.id}" th:text="${comp.name}"></option>
+    </select>
+  </label>
+</fieldset>
